@@ -4,6 +4,9 @@ public class Git extends Prism {
     String sesja;
     String aneczka;
     String eluwina;
+    int wiek;
+    int wzrost;
+
 
     @Override
     double evaluateVolume() {
