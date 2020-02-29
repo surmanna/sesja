@@ -2,6 +2,7 @@ package com.company;
 
 public class Git extends Prism {
     String sesja;
+    String zaliczenie;
 
     @Override
     double evaluateVolume() {
@@ -27,4 +28,5 @@ public class Git extends Prism {
     String getFigureInfo() {
         return null;
     }
+
 }
