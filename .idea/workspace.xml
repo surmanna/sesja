@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a378b29-c07e-4f29-b55f-20e93696e1c7" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+>>>>>>> 38e9153a3729703ca0011586996ac170b6457b55
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,10 +26,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y9y0LogRd88wVJUt0jhZO9Pa4p" />
+<<<<<<< HEAD
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../zajecia1/sesja" />
+=======
+>>>>>>> origin/master
+>>>>>>> 38e9153a3729703ca0011586996ac170b6457b55
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -74,9 +87,13 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
+            <State />
+=======
             <State>
               <option name="COLUMN_ORDER" />
             </State>
+>>>>>>> origin/master
           </value>
         </entry>
       </map>
